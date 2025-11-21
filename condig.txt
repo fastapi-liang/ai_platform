@@ -1,0 +1,6 @@
+git config --global user.name "liangzilong"
+git config --global user.email liangzilong001@gmail.com
+
+# 在您的项目目录中运行
+git config user.name "liangzilong"
+git config user.email liangzilong001@gmail.com
